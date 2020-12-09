@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T14:02:22.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.0" etag="v_MFVWfzhn6UUFcGsWNs" type="github"><diagram id="MuLz1aEldgDBCyGS5bqm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T14:08:22.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="5_aOXx3wL49vWoA49Dzt" version="14.0.0" type="github">
+  <diagram id="MuLz1aEldgDBCyGS5bqm" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7_i2ZA5TptighThSEuLO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-1" target="7_i2ZA5TptighThSEuLO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-1" target="7_i2ZA5TptighThSEuLO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-1" target="7_i2ZA5TptighThSEuLO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-1" target="7_i2ZA5TptighThSEuLO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-1" value="Ngành Điều khiển" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-2" value="Đại số" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-5" target="7_i2ZA5TptighThSEuLO-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-5" value="Giải tích 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-7" target="7_i2ZA5TptighThSEuLO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-7" value="Giải tích 2&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-9" target="7_i2ZA5TptighThSEuLO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-9" value="Tín hiệu và hệ thống" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-11" value="Lý thuyết điều khiển tự động&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-13" target="7_i2ZA5TptighThSEuLO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-13" value="Điện tử tương tự và số" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_i2ZA5TptighThSEuLO-15" target="7_i2ZA5TptighThSEuLO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_i2ZA5TptighThSEuLO-15" value="Lý thuyết mạch điện - điện tử" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
